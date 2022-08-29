@@ -1,0 +1,22 @@
+body {
+    background-color: whitesmoke;
+    font-family: Helvetica, Verdana, sans-serif;
+}
+h1, h2, h3{
+    color: sandybrown;
+}
+h1 {
+    text-align: center;
+    font-size: 60px;
+}
+
+.pictures {
+    width: 400px;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.toc {
+    color: lightsalmon;
+}
